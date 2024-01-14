@@ -1,0 +1,47 @@
+body {
+  font-family: Georgia;
+}
+
+header {
+  display: flex;
+}
+
+#baner1,
+#baner2 {
+  background-color: #3cb371;
+  color: white;
+  height: 100px;
+  width: 40%;
+}
+
+#baner3 {
+  background-color: #3cb371;
+  height: 100px;
+  width: 20%;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wpis {
+  background-color: #ffdab9;
+  width: 170px;
+  height: 90px;
+  margin: 5px;
+  border: 1px solid #3cb371;
+}
+
+footer {
+  background-color: #3cb371;
+  color: white;
+}
+
+h6 {
+  text-align: right;
+}
+
+form {
+  padding: 30px;
+}
